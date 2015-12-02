@@ -260,4 +260,13 @@ if "%1" == "pseudoxml" (
 	goto end
 )
 
+if "%1" == "slides" (
+	%SPHINXBUILD% -b slides %ALLSPHINXOPTS% %BUILDDIR%/slides
+	if errorlevel 1 exit /b 1
+	echo.
+	echo.Build finished. The HTML slides pages are in %BUILDDIR%/slides.
+	goto end
+)
+
 :end
+

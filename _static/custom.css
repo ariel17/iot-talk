@@ -1,0 +1,78 @@
+article > h1 {
+  margin-top: 300px;
+  text-align: center;
+}
+
+article > h2 {
+  margin-top: 50px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+article#internet-de-las-cosas {
+  text-align: center;
+}
+
+article#internet-de-las-cosas > h1 {
+  display: none;
+}
+
+.image-30 {
+  width: 30%;
+}
+
+.image-40 {
+  width: 40%;
+}
+
+.image-50 {
+  width: 50%;
+}
+
+.image-60 {
+  width: 60%;
+}
+
+.image-70 {
+  width: 70%;
+}
+
+.image-80 {
+  width: 80%;
+}
+
+.image-90 {
+  width: 90%;
+}
+
+.center {
+  text-align: center;
+}
+
+.video {
+  height: 450px;
+}
+
+p.personal-data {
+  margin: 0;
+}
+
+p.personal-data > a {
+  text-decoration: none;
+  font-size: 0.7em;
+}
+
+article#muchas-gracias {
+  text-align: center;
+}
+
+article#muchas-gracias > h2 {
+  font-size: 3em;
+}
+
+div.figure p.caption {
+  position : static;
+  left: auto;
+  bottom: auto;
+  font-size: 1em;
+}
