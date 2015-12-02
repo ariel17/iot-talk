@@ -142,28 +142,18 @@ Ejemplos
 Android Wear
 ------------
 
-.. image:: _static/android.png
-   :class: image-40
+.. rst-class:: center
+
+   .. figure:: _static/android.png
+      :class: image-40
 
 Apple Watch
 -----------
 
-.. image:: _static/apple.jpg
-   :class: image-70
+.. rst-class:: center
 
-Twine
------
-
-.. raw:: html
-
-   <iframe class="video" src="https://player.vimeo.com/video/33192464" frameborder="0" allowfullscreen></iframe>
-
-Matrix
-------
-
-.. raw:: html
-
-   <iframe class="video" src="https://www.youtube.com/embed/xiTIHStZYYI" frameborder="0" allowfullscreen></iframe>
+   .. figure:: _static/apple.jpg
+      :class: image-70
 
 Kinoma
 ------
@@ -179,6 +169,20 @@ Kinoma
 .. note::
 
    Es una plataforma de dispositivos electrónicos de alta performance.
+
+Twine
+-----
+
+.. raw:: html
+
+   <iframe class="video" src="https://player.vimeo.com/video/33192464" frameborder="0" allowfullscreen></iframe>
+
+Matrix
+------
+
+.. raw:: html
+
+   <iframe class="video" src="https://www.youtube.com/embed/xiTIHStZYYI" frameborder="0" allowfullscreen></iframe>
 
 Secret knock detecting lock
 ---------------------------
