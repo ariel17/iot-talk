@@ -3,10 +3,10 @@
 GIT="/usr/bin/env git"
 CURRENT=`$GIT symbolic-ref --short -q HEAD`
 PAGES="gh-pages"
-HTML="_build/html"
-FORMATS="slides"
+FORMAT="slides"
+HTML="_build/$FORMAT"
 
-make $FORMATS && \
+make $FORMAT && \
     $GIT checkout $PAGES && \
     cp -r $HTML/* . && \
     find . -type f -exec sed -i 's/_static/static/g' {} \; && \
