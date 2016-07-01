@@ -45,6 +45,10 @@ article#internet-de-las-cosas > h1 {
   width: 90%;
 }
 
+.image-100 {
+  width: 100%;
+}
+
 .center {
   text-align: center;
 }
@@ -68,6 +72,10 @@ article#muchas-gracias {
 
 article#muchas-gracias > h2 {
   font-size: 3em;
+}
+
+article#arduino > h2, article#raspberry-pi > h2, article#ifttt > h2 {
+    display: none;
 }
 
 div.figure p.caption {
