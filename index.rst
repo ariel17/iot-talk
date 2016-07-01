@@ -13,7 +13,7 @@ Internet de las Cosas
 
 .. rst-class:: date
 
-   2 de Diciembre del 2.015
+   1 de Julio del 2.016
 
 Conceptos
 =========
@@ -80,22 +80,18 @@ Arduino
    .. figure:: _static/arduino.png
       :class: image-30
    
-   .. figure:: _static/arduino316.jpg
-      :class: image-50
+.. container:: center
+
+    .. raw:: html
+    
+       <img src="_static/arduinouno.jpg" style="width: 300px;">
+       <img src="_static/arduino-wired.jpg" style="width: 300px;">
 
 .. note::
 
    Es una plataforma de hardware libre basada en una placa con un
    microcontrolador y un entorno de desarrollo diseñada para faciliar la
    electrónica.
-
-Eclipse IoT
------------
-
-.. rst-class:: center
-
-   .. figure:: _static/eclipse-iot.png
-      :class: image-80
 
 Raspberry Pi
 ------------
@@ -111,6 +107,16 @@ Raspberry Pi
 .. note::
 
    Ordenador de placa única de bajo costo. 
+
+IFTTT
+-----
+
+.. container:: center
+
+   .. raw:: html
+     
+      <img src="_static/ifttt.png" style="width: 50%">
+      <img src="_static/ifttt-app.jpg" style="width: 50%">
 
 Expectativas
 ============
@@ -130,11 +136,22 @@ Crecimiento
 Impacto social y económico
 --------------------------
 
-* Mayor pérdida de privacidad en ciudades altamente conectadas.
-* Optimización del consumo de energía.
-* Mejoras de procesos industriales.
-* Reformulación de industrias: nuevos puestos de trabajo emergerán pero en 
-  consecuencia otros dejarán de existir (similar a la revolución digital).
+.. container:: center
+
+   .. raw:: html
+      
+      <img src="_static/industrial1.jpg" style="width: 60%">
+      <img src="_static/vigilance.jpeg" style="width: 30%">
+      <img src="_static/energy.jpg" style="width: 40%">
+      <img src="_static/newindustries.jpg" style="width: 43%">
+
+.. note::
+
+   * Mayor pérdida de privacidad en ciudades altamente conectadas.
+   * Optimización del consumo de energía.
+   * Mejoras de procesos industriales.
+   * Reformulación de industrias: nuevos puestos de trabajo emergerán pero en 
+     consecuencia otros dejarán de existir (similar a la revolución digital).
 
 Ejemplos
 ========
@@ -170,26 +187,12 @@ Kinoma
 
    Es una plataforma de dispositivos electrónicos de alta performance.
 
-Twine
------
-
-.. raw:: html
-
-   <iframe class="video" src="https://player.vimeo.com/video/33192464" frameborder="0" allowfullscreen></iframe>
-
-Matrix
+Mother
 ------
 
-.. raw:: html
+.. rst-class:: center
 
-   <iframe class="video" src="https://www.youtube.com/embed/xiTIHStZYYI" frameborder="0" allowfullscreen></iframe>
-
-Secret knock detecting lock
----------------------------
-
-.. raw:: html
-
-   <iframe class="video" src="https://www.youtube.com/embed/zE5PGeh2K9k" frameborder="0" allowfullscreen></iframe>
+   .. figure:: _static/mother.jpg
 
 Problemas actuales
 ==================
@@ -198,7 +201,12 @@ Sin estándares definidos
 ------------------------
 
 .. figure:: _static/standards.png
-   :class: center
+   :class: image-100
+
+.. note::
+
+   * 3 días de hacking en DEFCON 2015.
+   * Los desarrolladores no esperan.
 
 ¿Dashboard?
 -----------
@@ -208,7 +216,11 @@ Sin estándares definidos
    .. figure:: _static/ring.jpg
       :class: image-80
 
-* La tecnología ideal aún está en fase de desarrollo.
+.. note::
+ 
+   * La tecnología ideal aún está en fase de desarrollo.
+   * Al no haber stándares, las grandes empresas esperan a que competidores más
+     chicos experimenten.
 
 ¿Preguntas?
 ===========
@@ -224,6 +236,13 @@ Links
 * `Kinoma by Marvell <http://www.marvell.com/kinoma/>`_
 * `Kevin Ashton's Twitter <https://twitter.com/kevin_ashton>`_
 * `Raspberry Pi <https://www.raspberrypi.org/>`_
+
+Video
+=====
+
+.. raw:: html
+
+   <iframe class="video" src="https://www.youtube.com/embed/xiTIHStZYYI" frameborder="0" allowfullscreen></iframe>
 
 ¡Muchas gracias!
 ================
